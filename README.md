@@ -17,4 +17,4 @@ Voicy_ThankYou.mp3
 
 README.md
 
-notice in the like button part , a small JS scripy wass added to play the recording
+notice in the like button part , a small JS script was added to play the recording
