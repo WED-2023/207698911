@@ -106,5 +106,20 @@ img {
   }
 
 
-
+  table {
+	width: 100%;
+	border-collapse: collapse;
+	direction: rtl;
+	text-align: center;
+  }
+  
+  th {
+	background-color: #00cfff;
+	color: white;
+  }
+  
+  td, th {
+	border: 1px solid #ccc;
+	padding: 10px;
+  }
   
