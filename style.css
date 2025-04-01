@@ -23,6 +23,7 @@ iframe
 	text-align: center;
 }
 button {
+	text-align: center;
 	margin-left: 550px;
 	background-color: #00cfff;
 	color: white;
@@ -61,7 +62,7 @@ h4 {
 	font-size: 50px;
 	text-size-adjust: 100%;
 	margin: 10px;
-	text-align: right;
+	text-align: center;
 
 	color: #999;
 }
